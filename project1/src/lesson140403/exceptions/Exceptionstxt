@@ -1,0 +1,12 @@
+Exception Exceptional event
+
+new Exception();
+
+Checked
+	Throwable -> Exception
+Unchecked
+	Throwable -> Error
+	Throwable -> Exception -> RuntimeException
+	
+Call stack - стэк вызовов
+stack trace - распечатка стэка вызовов
